@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI Project**
 
-- 🌱 I’m currently learning **Data Structure And Algorithms, LLM**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [arahmedraza.com](arahmedraza.com)
 
