@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AHMED RAZA</h1>
-<h3 align="center">Full Stack Developer (Python, PHP, Laravel, REACT) | Learning (DSA, Statistics))</h3>
+<h3 align="center">Full Stack Developer (Python, PHP, Laravel, REACT)</h3>
 
 - 🔭 I’m currently working on **AI Project**
 
