@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm AHMED RAZA</h1>
-<h3 align="center">Full Stack Developer (Python, PHP, Laravel, REACT)</h3>
+<h3 align="center">Full Stack Developer | Delivering High-Value Solutions for Client Success | 90+ JSS | PHP, Laravel, React, Python | SQL & NoSQL Databases | Docker, CI/CD, Cloud (AWS, Azure & GCP)</h3>
 
-- 🔭 I’m currently working on **AI Project**
+- 🔭 I’m currently working on **GCP Project**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Amazon Web Services (AWS)**
 
 - 👨‍💻 All of my projects are available at [arahmedraza.com](arahmedraza.com)
 
-- 💬 Ask me about **PHP, Laravel, React, IOT**
+- 💬 Ask me about **PHP, Laravel, React, Python**
 
 - 📫 How to reach me **ahmedraza6106@gmail.com**
 
