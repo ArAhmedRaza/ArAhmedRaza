@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AHMED RAZA</h1>
+<h1 align="center">Hi 👋, I'm M. Ahmed</h1>
 <h3 align="center">Full Stack Developer | Delivering High-Value Solutions for Client Success | 90+ JSS | PHP, Laravel, React, Python | SQL & NoSQL Databases | Docker, CI/CD, Cloud (AWS, Azure & GCP)</h3>
 
 - 🔭 I’m currently working on **GCP Project**
