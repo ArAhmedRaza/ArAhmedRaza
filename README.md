@@ -32,7 +32,7 @@ Full Stack & AI Solution Developer building enterprise software, AI-powered appl
 ## Featured Work
 
 - **Energy Management System (ISO 50001)** – Built an enterprise analytics platform with Power BI, ETL, and SQL Server.
-- **Manufacturing Execution System (MES)** – Supporting a 600m tyre manufacturing plant with SAP integration.
+- **Manufacturing Execution System (MES)** 
 - **SCADA Platform** – Developed industrial monitoring software using Laravel & React.
 - **Industrial IoT** – Built Modbus-based data acquisition systems in Python.
 - **Power BI Automation** – Automated report exports using Microsoft Graph APIs.
