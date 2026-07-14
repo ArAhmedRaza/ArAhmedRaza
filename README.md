@@ -1,4 +1,4 @@
-# Hi there, I'm M. Ahmed
+# I'm M. Ahmed
 
 Full Stack & AI Solution Developer passionate about building enterprise software, AI-powered applications, cloud solutions, and industrial systems that solve real business problems.
 
